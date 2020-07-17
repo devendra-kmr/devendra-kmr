@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about microservices and all cloudy thing.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/JavaPioneer)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Reading classical music/ghazals daily poems, literature blogs.
+- ⚡ Fun fact: Listening classical music/ghazals daily poems, Reading literature blogs.
 
 
 
