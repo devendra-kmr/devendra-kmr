@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-
+<!--- 👯 I’m looking to collaborate on ... -->
 - 🔭 I’m currently working on Microservices and React.
 - 🌱 I’m currently learning AWS,DevOps
-<!--- 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with AWS/Openshift
 - 💬 Ask me about microservices and all cloudy thing.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/JavaPioneer)
