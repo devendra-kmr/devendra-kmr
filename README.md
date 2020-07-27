@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 -->
 <!--- 👯 I’m looking to collaborate on ... -->
-- 🔭 I’m currently working on Microservices and React.
+- 🔭 I’m currently working on Microservices/micro-frontends and React.
 - 🌱 I’m currently learning AWS,DevOps
 - 🤔 I’m looking for help with AWS/Openshift
-- 💬 Ask me about microservices and all cloudy thing.
+- 💬 Ask me about microservices,java,spring and all cloudy thing.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/JavaPioneer)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Listening classical music/ghazals daily poems, Reading literature blogs.
+- ⚡ Fun fact: Late-night listening to classical music/ghazals, coding, reading literature blogs.
 
 
 
