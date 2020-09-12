@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AWS,DevOps
 - 🤔 I’m looking for help with AWS/Openshift
 - 💬 Ask me about microservices,java,spring and all cloudy thing.
-- 📫 How to reach me: [Facebook](https://www.facebook.com/JavaPioneer) devendrakumar.address@gmail.com
+- 📫 How to reach me: [Facebook](https://www.facebook.com/JavaPioneer) & devendrakumar.address@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Late-night listening to classical music/ghazals, coding, reading literature blogs.
 
