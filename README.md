@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://visitor-badge.laobi.icu/badge?page_id=devendra-kmr) [![Github](https://img.shields.io/github/followers/devendra-kmr?label=Follow&style=social)](https://github.com/devendra-kmr)
 
 I'm Devendra Kumar
 
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ## 🧰 Languages and Tools:
 <p align="center">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="50" style="vertical-align:top; margin:8px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=devendra-kmr)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=devendra-kmr)
 
-[![Github](https://img.shields.io/github/followers/devendra-kmr?label=Follow&style=social)](https://github.com/devendra-kmr)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-kmr&theme=tokyonight)
 
