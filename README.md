@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=devendra-kmr)
 
 [![Github](https://img.shields.io/github/followers/devendra-kmr?label=Follow&style=social)](https://github.com/devendra-kmr)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devendra-kmr&show_icons=true&theme=tokyonight)
