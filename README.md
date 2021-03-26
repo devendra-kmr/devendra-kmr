@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=devendra-kmr)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=devendra-kmr)
