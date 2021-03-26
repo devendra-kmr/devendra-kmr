@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Late-night listening to classical music/ghazals, coding, reading literature blogs.
 
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=devendra-kmr&&show_icons=true"/>
-
+-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devendra-kmr&show_icons=true&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=devendra-kmr)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -27,4 +28,6 @@ Here are some ideas to get you started:
 
 [![Github](https://img.shields.io/github/followers/devendra-kmr?label=Follow&style=social)](https://github.com/devendra-kmr)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devendra-kmr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-kmr&theme=tokyonight)
+
+
