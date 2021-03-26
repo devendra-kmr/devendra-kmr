@@ -1,5 +1,7 @@
 ### Hi there 👋  I'm Devendra Kumar
 
+A passionate Full Stack developer(Java & Angular &  React) from Bengaluru,India
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=devendra-kmr) [![Github](https://img.shields.io/github/followers/devendra-kmr?label=Follow&style=social)](https://github.com/devendra-kmr)
 
 
