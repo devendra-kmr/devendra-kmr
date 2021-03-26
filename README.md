@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Late-night listening to classical music/ghazals, coding, reading literature blogs.
 
-<br />
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
