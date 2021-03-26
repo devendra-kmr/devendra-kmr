@@ -35,13 +35,9 @@ Here are some ideas to get you started:
 
 ## Github stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=devendra-kmr&&show_icons=true"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=devendra-kmr&&show_icons=true"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Used language stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
+<!--   ## Used language stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devendra-kmr&show_icons=true&theme=tokyonight)
 -->
 
