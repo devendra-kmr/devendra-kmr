@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋  I'm Devendra Kumar
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=devendra-kmr) [![Github](https://img.shields.io/github/followers/devendra-kmr?label=Follow&style=social)](https://github.com/devendra-kmr)
 
-I'm Devendra Kumar
+
 
 <!--
 **devendra-kmr/devendra-kmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
