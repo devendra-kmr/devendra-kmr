@@ -22,16 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Late-night listening to classical music/ghazals, coding, reading literature blogs.
 
-
-## ✉️ Find me on:
-
-
-<p align="center">
- <a href="https://devendra-kmr.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/devendra-kumar-kmr/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:devendrakumar.address@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
 <br />
 
 ## 🧰 Languages and Tools:
@@ -42,7 +32,9 @@ Here are some ideas to get you started:
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=devendra-kmr&&show_icons=true"/>     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=devendra-kmr&&show_icons=true"/> 
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devendra-kmr&show_icons=true&theme=tokyonight)
 -->
@@ -55,5 +47,12 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-kmr&theme=tokyonight)
 -->
 
+## ✉️ Find me on:
 
+
+<p align="center">
+ <a href="https://devendra-kmr.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/devendra-kumar-kmr/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:devendrakumar.address@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
