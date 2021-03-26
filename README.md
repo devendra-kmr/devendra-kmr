@@ -1,4 +1,6 @@
+<p align="center">
 ## Hi there 👋  I'm Devendra Kumar
+ </p>
 
 ### A passionate Full Stack developer(Java & Angular &  React) from Bengaluru,India
 
