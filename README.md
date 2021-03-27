@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 
 
 ## 🧰 Languages and Tools:
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="50" style="vertical-align:top; margin:8px">
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Github stats:
-</br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=devendra-kmr&&show_icons=true"/> 
 
 
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-kmr&theme=tokyonight)
 -->
-</br>
+
 ## ✉️ Find me on:
 
 
