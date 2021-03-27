@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Github stats:
-
+</br>
 <img src="https://github-readme-stats.vercel.app/api?username=devendra-kmr&&show_icons=true"/> 
 
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-kmr&theme=tokyonight)
 -->
-
+</br>
 ## ✉️ Find me on:
 
 
