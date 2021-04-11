@@ -15,6 +15,7 @@
 **devendra-kmr/devendra-kmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+
 <!--- 👯 I’m looking to collaborate on ... -->
 - 🔭 I’m currently working on Microservices/Micro-frontends and React.
 - 🌱 I’m currently learning AWS,DevOps
@@ -23,6 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Facebook](https://www.facebook.com/JavaPioneer) & devendrakumar.address@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Late-night listening to classical music/ghazals, coding, reading literature blogs.
+
 
 
 
