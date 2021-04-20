@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/State_management-Redux-informational?style=flat&logo=redux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=node.js&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=blue)
+
 <!--![](https://img.shields.io/badge/Faas-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Style-@Material_UI,_Theme_UI-informational?style=flat&logo=material-ui&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Headless_CMS-Sanity.io,_Prismic,_NetlifyCMS,_Strapi-informational?style=flat&white&color=blue) 
@@ -55,7 +55,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-OVH-informational?style=flat&logo=ovh&logoColor=white&color=blue) --> 
+![](https://img.shields.io/badge/Cloud-OVH-informational?style=flat&logo=ovh&logoColor=white&color=blue) 
+![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=blue)
+--> 
 
 ## Github stats:
 
