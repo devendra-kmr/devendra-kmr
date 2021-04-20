@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/State_management-Redux-informational?style=flat&logo=redux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=node.js&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -59,6 +58,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-OVH-informational?style=flat&logo=ovh&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=node.js&logoColor=white&color=blue)
 --> 
 
 ## Github stats:
