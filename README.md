@@ -30,6 +30,14 @@ Here are some ideas to get you started:
 
 ## 🧰 Languages and Tools:
 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
+![](https://img.shields.io/badge/State_management-Redux-informational?style=flat&logo=redux&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=node.js&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,13 +46,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
-![](https://img.shields.io/badge/State_management-Redux-informational?style=flat&logo=redux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=node.js&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
+
 
 <!--![](https://img.shields.io/badge/Faas-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Style-@Material_UI,_Theme_UI-informational?style=flat&logo=material-ui&logoColor=white&color=blue)
