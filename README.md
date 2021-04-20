@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/State_management-Redux-informational?style=flat&logo=redux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=node.js&logoColor=white&color=blue)-->
+![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=node.js&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=blue)
 <!--![](https://img.shields.io/badge/Faas-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=blue)
