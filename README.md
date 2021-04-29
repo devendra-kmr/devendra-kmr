@@ -65,6 +65,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=node.js&logoColor=white&color=blue)
 --> 
+
+<div>
+    <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/ubuntu.png"/>
+ 
+ </div>
 <!--
 <div>
     <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
