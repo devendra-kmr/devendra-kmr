@@ -93,6 +93,10 @@ Here are some ideas to get you started:
     src="https://github.com/devendra-kmr/my-assest/blob/master/logo/visual-studio-code.png"/>
           <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="https://github.com/devendra-kmr/my-assest/blob/master/logo/docker.png"/>
+              <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/devendra-kmr/my-assest/blob/master/logo/aws.png"/>
+              <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/devendra-kmr/my-assest/blob/master/logo/github.png"/>
    
     
  </div>
