@@ -78,6 +78,12 @@ Here are some ideas to get you started:
     src="https://github.com/devendra-kmr/my-assest/blob/master/logo/mongodb.png"/>
   <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="https://github.com/devendra-kmr/my-assest/blob/master/logo/postgres.png"/>
+   <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/devendra-kmr/my-assest/blob/master/logo/angular.png"/>
+  <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/devendra-kmr/my-assest/blob/master/logo/react.png"/>
+  <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/devendra-kmr/my-assest/blob/master/logo/redux.png"/>
  </div>
  <br></br>
 <!--
