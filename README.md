@@ -99,7 +99,7 @@ Here are some ideas to get you started:
               <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="https://github.com/devendra-kmr/my-assest/blob/master/logo/aws.png"/>
     <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/devendra-kmr/my-assest/blob/master/logo/cloud.png"/>
+    src="https://github.com/devendra-kmr/my-assest/blob/master/logo/cloud.jpeg"/>
               <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="https://github.com/devendra-kmr/my-assest/blob/master/logo/github.png"/>
     
