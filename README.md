@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <!--- 👯 I’m looking to collaborate on ... -->
-- 🔭 I’m currently working on Microservices/Micro-frontends and React.
+- 🔭 I’m currently working on Microservices/Micro-frontends and SpringBoot/React.
 - 🌱 I’m currently learning AWS,DevOps
 - 🤔 I’m looking for help with AWS/Openshift
 - 💬 Ask me about microservices,java,spring and all cloudy thing.
