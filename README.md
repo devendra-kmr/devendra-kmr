@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 -->
 
 
-
 <!--![](https://img.shields.io/badge/Faas-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Style-@Material_UI,_Theme_UI-informational?style=flat&logo=material-ui&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Headless_CMS-Sanity.io,_Prismic,_NetlifyCMS,_Strapi-informational?style=flat&white&color=blue) 
