@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Late-night listening to classical music/ghazals, coding, reading literature blogs.
 
 
+
 ## 🧰 Languages and Tools:
 <!--
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
