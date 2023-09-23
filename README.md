@@ -4,12 +4,12 @@
 
 
 ### <p align="center"> A passionate Full Stack developer(Java & Angular &  React) from Bengaluru,India</p>
-<!--
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=devendra-kmr) [![Github](https://img.shields.io/github/followers/devendra-kmr?label=Follow&style=social)](https://github.com/devendra-kmr)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=devendra-kmr)](https://github.com/ryo-ma/github-profile-trophy)
 
--->
+
 <!--
 **devendra-kmr/devendra-kmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
